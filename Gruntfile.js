@@ -32,7 +32,7 @@ module.exports = function (grunt) {
       },
       css: {
         files: [
-          'public/css/*.css'
+          'css/*.css'
         ],
         options: {
           livereload: reloadPort
